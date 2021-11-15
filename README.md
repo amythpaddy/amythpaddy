@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amythpaddy
+- 👀 I’m interested in web, mobile, backend.... basically all things that can be created by a code
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on flutter, react, node
+- 📫 Mail me -> amythshekhar@gmail.com||amythpaddy21@gmail.com, 
